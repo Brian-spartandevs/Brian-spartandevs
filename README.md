@@ -1,6 +1,7 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align='center'>
   <p align="center"><a href="https://github.com/Brian-spartandevs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello+There%2C+I'm+Brian+Arrieta+%F0%9F%91%8B;A+motivated+Front-end+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
-  <hr />
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
     <div align="center">
         <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
       <div align="center">
@@ -48,14 +49,15 @@ Here are some [🦜 parrots]
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-</h1>
-<div align='center'>
+        <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <h1>
+<div align='center' margin-top="10px" >
     <img src='https://github-readme-stats.vercel.app/api?username=Brian-spartandevs&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/Brian-spartandevs' />
 <div/>
-<img src="https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png">
-    
-------
+<img src="https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png"> 
+  
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 Credit: [Brian](https://github.com/Brian-spartandevs)
 
 Last Edited on: 14/11/2023
-
