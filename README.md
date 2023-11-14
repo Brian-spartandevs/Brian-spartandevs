@@ -1,7 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align='center'>
   <p align="center"><a href="https://github.com/Brian-spartandevs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=435&lines=Hello+There%2C+I'm+Brian+Arrieta+%F0%9F%91%8B;A+motivated+Front-end+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
     <div align="center">
         <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
       <div align="center">
@@ -24,7 +23,7 @@
     </div>
 <div>
 </div>
-        
+     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <h1>
 <div align='center' margin-top="10px" >
     <img src='https://github-readme-stats.vercel.app/api?username=Brian-spartandevs&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/Brian-spartandevs' />
