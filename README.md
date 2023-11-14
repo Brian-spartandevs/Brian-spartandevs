@@ -24,7 +24,7 @@
     </div>
 <div>
 </div>
-        <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+        
   <h1>
 <div align='center' margin-top="10px" >
     <img src='https://github-readme-stats.vercel.app/api?username=Brian-spartandevs&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true)](https://github.com/Brian-spartandevs' />
