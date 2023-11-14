@@ -32,3 +32,7 @@
 <img src="https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png"> 
   
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+Credit: [Brian](https://github.com/Brian-spartandevs)
+
+Last Edited on: 14/11/2023
