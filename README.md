@@ -12,9 +12,7 @@
        <img src="https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit">
        <img src="https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr">
       <div/>
-      <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
-      <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="25" height="25" />
-    <img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
+      <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p
     <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
     <img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" alt="react" width="25" height="25" />
     <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
